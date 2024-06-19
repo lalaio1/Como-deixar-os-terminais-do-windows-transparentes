@@ -1,8 +1,4 @@
-### Como Mudar a Transparência dos Terminais CMD, WSL e PowerShell
-
-Olá, pessoal! 🌟 Neste tutorial, vou mostrar como você pode mudar a transparência dos terminais CMD, WSL e PowerShell no Windows. ✨
-
-## Passo a Passo
+---
 
 ### 1. Mudando a Transparência do CMD
 
@@ -22,6 +18,8 @@ Olá, pessoal! 🌟 Neste tutorial, vou mostrar como você pode mudar a transpar
 
 4. **Clique em OK** para aplicar as mudanças.
 
+---
+
 ### 2. Mudando a Transparência do PowerShell
 
 1. **Abra o PowerShell**:
@@ -39,6 +37,8 @@ Olá, pessoal! 🌟 Neste tutorial, vou mostrar como você pode mudar a transpar
      ![Ajuste a Transparência do PowerShell](images/powershell-opacity.png)
 
 4. **Clique em OK** para aplicar as mudanças.
+
+---
 
 ### 3. Mudando a Transparência do WSL
 
@@ -58,10 +58,11 @@ Olá, pessoal! 🌟 Neste tutorial, vou mostrar como você pode mudar a transpar
 
 4. **Clique em OK** para aplicar as mudanças.
 
+---
+
 ### Observações Finais 📝
 
 - 🛠️ **Permissões de Admin**: Para fazer essas alterações, você pode precisar de permissões de administrador.
 - 💡 **Dica**: Alterar a opacidade para valores entre 70-80% geralmente oferece um bom equilíbrio entre transparência e legibilidade.
 - 🔄 **Reinicie**: Às vezes, é necessário fechar e reabrir o terminal para ver as mudanças aplicadas.
 
-Espero que este guia seja útil para personalizar seus terminais no Windows!
