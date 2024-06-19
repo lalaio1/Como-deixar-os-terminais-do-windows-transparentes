@@ -16,7 +16,11 @@
 
 4. **Clique em OK** para aplicar as mudanças. ✅
 
+
+
 ---
+
+
 
 ### 2. Mudando a Transparência do PowerShell
 
@@ -36,7 +40,11 @@
 
 4. **Clique em OK** para aplicar as mudanças. ✅
 
+
+
 ---
+
+
 
 ### 3. Mudando a Transparência do WSL
 
@@ -56,7 +64,11 @@
 
 4. **Clique em OK** para aplicar as mudanças. ✅
 
+
+
 ---
+
+
 
 ### Observações Finais 📝
 
@@ -64,7 +76,11 @@
 - 💡 **Dica**: Alterar a opacidade para valores entre 70-80% geralmente oferece um bom equilíbrio entre transparência e legibilidade.
 - 🔄 **Reinicie**: Às vezes, é necessário fechar e reabrir o terminal para ver as mudanças aplicadas. 🔄
 
+
+
 ---
+
+
 
 ### Créditos
 
