@@ -1,87 +1,71 @@
-### 1. Mudando a Transparência do CMD
+### 1. Changing CMD Transparency
 
-1. **Abra o CMD**:
-   - Pressione `Win + R`, digite `cmd` e pressione `Enter`. 🖥️
+1. **Open CMD**:
+   - Press `Win + R`, type `cmd`, and press `Enter`. 🖥️
 
-2. **Acesse as Propriedades**:
-   - Clique com o botão direito na barra de título do CMD e selecione `Propriedades`. ⚙️
+2. **Access Properties**:
+   - Right-click on the CMD title bar and select `Properties`. ⚙️
 
-     ![Abra as Propriedades do CMD](images/cmd-properties.png)
+     ![Open CMD Properties](images/cmd-properties.png)
 
-3. **Ajuste a Transparência**:
-   - Vá até a aba `Cores`.
-   - Ajuste o controle deslizante em `Opacidade` para o nível desejado. 🎚️
+3. **Adjust Transparency**:
+   - Go to the `Colors` tab.
+   - Adjust the slider under `Opacity` to your desired level. 🎚️
 
-     ![Ajuste a Transparência do CMD](images/cmd-opacity.png)
+     ![Adjust CMD Transparency](images/cmd-opacity.png)
 
-4. **Clique em OK** para aplicar as mudanças. ✅
-
-
+4. **Click OK** to apply the changes. ✅
 
 ---
 
+### 2. Changing PowerShell Transparency
 
+1. **Open PowerShell**:
+   - Press `Win + R`, type `powershell`, and press `Enter`. 🖥️
 
-### 2. Mudando a Transparência do PowerShell
+2. **Access Properties**:
+   - Right-click on the PowerShell title bar and select `Properties`. ⚙️
 
-1. **Abra o PowerShell**:
-   - Pressione `Win + R`, digite `powershell` e pressione `Enter`. 🖥️
+     ![Open PowerShell Properties](images/powershell-properties.png)
 
-2. **Acesse as Propriedades**:
-   - Clique com o botão direito na barra de título do PowerShell e selecione `Propriedades`. ⚙️
+3. **Adjust Transparency**:
+   - Go to the `Colors` tab.
+   - Adjust the slider under `Opacity` to your desired level. 🎚️
 
-     ![Abra as Propriedades do PowerShell](images/powershell-properties.png)
+     ![Adjust PowerShell Transparency](images/powershell-opacity.png)
 
-3. **Ajuste a Transparência**:
-   - Vá até a aba `Cores`.
-   - Ajuste o controle deslizante em `Opacidade` para o nível desejado. 🎚️
-
-     ![Ajuste a Transparência do PowerShell](images/powershell-opacity.png)
-
-4. **Clique em OK** para aplicar as mudanças. ✅
-
-
+4. **Click OK** to apply the changes. ✅
 
 ---
 
+### 3. Changing WSL Transparency
 
+1. **Open WSL**:
+   - Press `Win + R`, type `wsl`, and press `Enter`. 🖥️
 
-### 3. Mudando a Transparência do WSL
+2. **Access Preferences**:
+   - Right-click on the WSL title bar and select `Properties`. ⚙️
 
-1. **Abra o WSL**:
-   - Pressione `Win + R`, digite `wsl` e pressione `Enter`. 🖥️
+     ![Open WSL Properties](images/wsl-properties.png)
 
-2. **Acesse as Preferências**:
-   - Clique com o botão direito na barra de título do WSL e selecione `Propriedades`. ⚙️
+3. **Adjust Transparency**:
+   - Go to the `Colors` tab.
+   - Adjust the slider under `Opacity` to your desired level. 🎚️
 
-     ![Abra as Propriedades do WSL](images/wsl-properties.png)
+     ![Adjust WSL Transparency](images/wsl-opacity.png)
 
-3. **Ajuste a Transparência**:
-   - Vá até a aba `Cores`.
-   - Ajuste o controle deslizante em `Opacidade` para o nível desejado. 🎚️
-
-     ![Ajuste a Transparência do WSL](images/wsl-opacity.png)
-
-4. **Clique em OK** para aplicar as mudanças. ✅
-
-
+4. **Click OK** to apply the changes. ✅
 
 ---
 
+### Final Notes 📝
 
-
-### Observações Finais 📝
-
-- 🛠️ **Permissões de Admin**: Para fazer essas alterações, você pode precisar de permissões de administrador.
-- 💡 **Dica**: Alterar a opacidade para valores entre 70-80% geralmente oferece um bom equilíbrio entre transparência e legibilidade.
-- 🔄 **Reinicie**: Às vezes, é necessário fechar e reabrir o terminal para ver as mudanças aplicadas. 🔄
-
-
+- 🛠️ **Admin Permissions**: You might need administrator permissions to make these changes.
+- 💡 **Tip**: Setting the opacity to values between 70-80% generally provides a good balance between transparency and readability.
+- 🔄 **Restart**: Sometimes, you may need to close and reopen the terminal to see the applied changes. 🔄
 
 ---
 
+### Credits
 
-
-### Créditos
-
-Instruções por [lalaio1 (GitHub)](https://github.com/lalaio1) | Discord: lalaio1
+Instructions by [lalaio1 (GitHub)](https://github.com/lalaio1) | Discord: lalaio1
